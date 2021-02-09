@@ -1,2 +1,6 @@
-# helloworld
-课程笔记
+#include <stdio.h>
+int main()
+{
+  printf("Hello world");
+  return 0;
+}
